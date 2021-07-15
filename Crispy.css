@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.img-text-wrapper {
+    position: absolute;
+    top: 0px;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    background-image: url(Images/Frying_pan.jpg);
+    height: 350px;
+}
+.img-text-wrapper .logo-wrapper img {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 100px;
+}
+.img-text-wrapper .subtitle p {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: small;
+    color: white;
+}
+.img-text-wrapper .subtitle h2 {
+    color: white;
+    padding: 5px;
+    font-size: small;
+}
+.subtitle {
+    text-align: center;
+}
+.Two {
+    padding: 15px;
+}
+.collection {
+    padding: 15px;
+}
+.collection .img-wrap img {
+    width: 470px;
+    height: 300px;
+}
+.unity {
+    background-image: url(Images/Greenleaf.jpg);
+    padding: 15px;
+}
+.footer .copyright p {
+    border: 1px solid yellow;
+    color: white;
+}
+.footer-top p{
+    color: white;
+}
+.footer-top h4 {
+    color: white;
+}
+.footer-top {
+    padding: 10px;
+}
+.footer-bottom .copyright{
+    background-color: black;
+}
+.footer-bottom .copyright p{
+    color: white;
+    text-align: center;
+}
+
+/*Register Styling*/
+.Background {
+    background-image: url(Images/Greenleaf.jpg);
+    padding: 5px;
+    height: 420px;
+}
+.Background p {
+    color: white;
+}
+.Background .box form{
+    border: 1px solid grey;
+    padding: 5px;
+}
+/*Login Styling*/
+.Overall {
+    background-image: url(Images/Greenleaf.jpg);
+    padding: 10px;
+}
+.Overall label {
+    color: white;
+}
+.Overall p {
+    color: white;
+}
+.Overall h5 {
+    color: white;
+}
+.Overall form p {
+    color: white;
+}
+.Overall .pack form {
+    border: 1px solid rgb(77,70, 70);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 5px;
+}
